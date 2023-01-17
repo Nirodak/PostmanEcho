@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="744477f9-c2f3-4e60-94ac-b25668d28349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestPost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Java\PostmanEcho" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean test" />
+    </option>
   </component>
   <component name="RunManager" selected="Gradle.PostmanEcho [clean test]">
     <configuration name="PostmanEcho [clean test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
